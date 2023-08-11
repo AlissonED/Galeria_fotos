@@ -1,11 +1,15 @@
 * {
     background-color: azure;
+    display: flex;
 }
 h1{
-    display: flex;
     justify-content: center;
     align-items: center;
     background-color: rgb(69, 49, 255);
     color: aliceblue;
     font-family: 'REM', sans-serif;
+}
+#caixa-flex{
+    padding:40px;
+    margin: 40px;
 }
