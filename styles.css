@@ -1,6 +1,7 @@
-* {
+body {
     background-color: azure;
     display: flex;
+    flex-direction: column;
 }
 h1{
     justify-content: center;
